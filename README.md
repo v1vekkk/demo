@@ -1,2 +1,3 @@
-# demo
-first git repository
+# Demo
+My first git repository
+Author-vivek chaudhary
